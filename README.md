@@ -10,14 +10,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="CristaudoGiuseppe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--[--><img align="left" alt="CristaudoGiuseppe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><!--][linkedin]-->
 
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align="left" alt="Jupyter" width="26px" src="https://www.icos-cp.eu/sites/default/files/2020-11/jupyter%20logo%20resized.png" />]
+<img align="left" alt="Jupyter" width="26px" src="https://www.icos-cp.eu/sites/default/files/2020-11/jupyter%20logo%20resized.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/320px-C_Logo.png" />
 <img align="left" alt="Java" width="26px" src="https://www.aktsrl.com/new/wp-content/uploads/2020/04/java.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
@@ -37,4 +37,4 @@
 
 </details>
 
-[linkedin]:
+<!--[linkedin]:-->
