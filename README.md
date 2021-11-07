@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Engineer from University Of Bologna!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn Solidity and Blockchain Technologies
 - ⚡ Fun fact: I love buy, collect and sell sneakers
