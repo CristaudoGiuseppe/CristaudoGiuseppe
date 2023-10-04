@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Improve Data Analysis and Learn Financial Engineering 
+- 🥅 2024 Goals: Improve Architecture Skills, deploy my first application
 - ⚡ Fun fact: I love buy, collect and sell sneakers
 
 
